@@ -85,6 +85,5 @@ for i in range(1,max_iter):
 	clock.tick(1000)
 	screen.fill((255,255,255))
 print("Completed converging at : [{},{}] ".format(point_x,point_y))
-sd=input()
 
 
